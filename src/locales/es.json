@@ -1,0 +1,200 @@
+{
+  "navbar": {
+    "brand": "MARIO",
+    "brandAccent": "HERNÁNDEZ",
+    "links": {
+      "home": "Inicio",
+      "contact": "Contacto",
+      "about": "Sobre Mí",
+      "education": "Formación",
+      "experience": "Experiencia",
+      "projects": "Proyectos"
+    },
+    "mobileLanguage": "Idioma"
+  },
+  "hero": {
+    "name": "Mario Isaias Hernández Jiménez",
+    "role": "Desarollador Full Stack | Especialista en Ciberseguridad y AWS",
+    "description": "Ingeniero con formación dual en Sistemas e Industrial, especializado en el diseño de arquitecturas escalables y la optimización de procesos críticos. Mi valor diferencial radica en la capacidad de traducir las metas estratégicas de los stakeholders en sistemas funcionales de alto impacto, logrando digitalizar y automatizar flujos de trabajo que maximizan la rentabilidad operativa. Cuento con un historial de optimización en líneas de producción y desarrollo de software full-stack orientado a resultados.",
+    "ctaProjects": "Ver Proyectos",
+    "ctaContact": "Contacto"
+  },
+  "about": {
+    "title": "Sobre Mí",
+    "blocks": {
+      "start": {
+        "title": "Mis inicios",
+        "text": "Mi camino en la tecnología comenzó a los 14 años impulsado por una curiosidad insaciable por entender cómo funcioban las aplicaciones móviles y web. Mi primer gran desafío fue desarrollar una red social propia, donde implementé un sistema de autenticación funcional con Firebase, chat en tiempo real y muros de interacción. Aunque el proyecto me enfrentó a mis primeras realidades sobre la escalabilidad y los costos de infraestructura, sembró en mí la semilla de la arquitectura de software."
+      },
+      "evolution": {
+        "title": "Evolución a Mobile y POO",
+        "text": "A los 15 años, di el salto al desarrollo de videojuegos móviles con Swift. Creé una versión avanzada de \"3 en raya\" (Tic-Tac-Toe) que incluía multijugador online y una modalidad compleja de \"juego anidado\". Este proyecto fue mi laboratorio para dominar la Programación Orientada a Objetos (POO) y la gestión de estados lógicos complejos, permitiéndome probar mis prototipos con usuarios reales en mi entorno escolar."
+      },
+      "industrial": {
+        "title": "Ingeniería Industrial y Optimización",
+        "text": "Con una base autodidacta sólida, a los 17 años tomé una decisión poco convencional: estudiar Ingeniería Industrial. Mi objetivo era claro: quería complementar mis habilidades de programación con el estudio de tiempos, la optimización de procesos y metodologías como Lean Six Sigma y Agile. Durante esta etapa, desarrollé herramientas como un sistema de cálculo de recursos para irrigación de cultivos, integrando factores climáticos y geográficos en una solución técnica eficiente."
+      },
+      "consolidation": {
+        "title": "Sistemas y Seguridad",
+        "text": "Para formalizar mi formación, a los 19 años inicié mi segunda carrera en Ingeniería en Sistemas Computacionales. Esta formación dual me ha permitido no solo escribir código, sino diseñar sistemas ergonómicos y eficientes desde la raíz. Aprovechando mi formalización para aprender Ciberseguridad y las infraestructuras Cloud. Profundizando en tecnologías de contenerización como Docker y Kubernetes, y en la administración de servidores Linux y servicios de AWS, buscando siempre que cada despliegue sea tan seguro como escalable a su vez aprender de metodologías como SCRUM, BEM, UI, UX, etc."
+      }
+    }
+  },
+  "experience": {
+    "title": "Experiencia Laboral",
+    "projectHeading": "Proyectos Destacados en el Puesto",
+    "jobs": {
+      "cam": {
+        "company": "C.A.M. LA RETAMA",
+        "role": "Desarrollador Full Stack",
+        "period": "Dic. 2024 - Presente",
+        "description": "Lidero el desarrollo de soluciones tecnológicas críticas para la administración pública y sistemas de recaudación municipal.",
+        "achievements": [
+          "Desarrollo de sistemas de facturación offline con sincronización asíncrona, logrando un 24% más de eficiencia en la continuidad operativa.",
+          "Optimización de consultas SQL complejas y arquitecturas de bases de datos, mejorando significativamente los tiempos de respuesta.",
+          "Diseño de interfaces UI/UX en React y Figma que redujeron el tiempo de generación de reportes en un 31.7%.",
+          "Implementación de protocolos de seguridad RBAC y APIs RESTful seguras para la protección de datos ciudadanos."
+        ],
+        "projects": [
+          {
+            "title": "Chatbot de Atención Ciudadana con IA",
+            "desc": "Implementación de un agente inteligente que utiliza procesamiento de lenguaje natural para resolver dudas, usa arquitectura de microservicios y APIs RESTful, permitiendo a los ciudadanos consultar y pagar su predial en línea de forma automatizada."
+          },
+          {
+            "title": "Sistema de Gestión de Viáticos (RBAC)",
+            "desc": "Diseño y desarrollo de una plataforma robusta para el control de gastos de viaje, basada en un modelo de Control de Acceso Basado en Roles (RBAC) para garantizar la seguridad y jerarquía en las autorizaciones financieras."
+          },
+          {
+            "title": "Sistema Integral de Gestión de Identidad Estudiantil",
+            "desc": "Diseñe y desarrolle un sistema para que los alumnos de la zona se pueden registrar para obtener una credencial fisica para el acceso a sus instalaciones y descuentos estudiantiles, teniendo un panel de administrador, donde se valida la información del alumno y se generan las credenciales."
+          }
+        ]
+      },
+      "exertus": {
+        "company": "Exertus",
+        "role": "Analista de Datos",
+        "period": "Ene. 2022 - Sep. 2022",
+        "description": "Apliqué metodologías de Ingeniería Industrial combinadas con análisis de datos para la optimización de producción.",
+        "achievements": [
+          "Creación de modelos predictivos en Python para la detección de cuellos de botella, optimizando el rendimiento de las líneas en un 4.2%.",
+          "Diseño de tuberías (pipelines) de limpieza de datos masivos, alcanzando una integridad de la información del 95.9%.",
+          "Generación de reportes estratégicos mediante el análisis diario de tiempos y movimientos."
+        ],
+        "projects": [
+          {
+            "title": "Simulación Estocástica de Procesos",
+            "desc": "Tratamiento de datos en R Studio para la creación de modelos de simulación en promodel para la predicción de escenarios críticos de producción y optimizaron el flujo de materiales."
+          }
+        ]
+      },
+      "caritas": {
+        "company": "Cáritas Tampico",
+        "role": "Analista de rutas de reparto",
+        "period": "Ago. 2021 - Dic. 2021",
+        "description": "Optimización de la cadena de suministro y última milla para la distribución eficiente de bienes perecederos.",
+        "achievements": [
+          "Reestructuración geográfica de rutas de reparto, logrando una reducción significativa en los tiempos de entrega y costos operativos.",
+          "Modelado de rutas basado en algoritmos de consumo, distancia y ventana de vida del producto para minimizar mermas de bienes sensibles.",
+          "Digitalización cartográfica de la red de distribución para la supervisión en tiempo real de conductores y clientes."
+        ],
+        "projects": [
+          {
+            "title": "Cartografía Digital de Distribución",
+            "desc": "Creación de un mapa interactivo con rutas optimizadas que sirvió como base para la planificación diaria de la flota logística."
+          }
+        ]
+      }
+    }
+  },
+  "education": {
+    "title": "Formación y Certificaciones",
+    "degreesHeading": "Grados Académicos",
+    "certsHeading": "Certificaciones y Diplomas",
+    "languagesHeading": "Idiomas",
+    "degrees": {
+      "master": {
+        "title": "Maestría en Ing. de Software",
+        "issuer": "UNIR | Especialidad en Ciberseguridad",
+        "status": "En curso"
+      },
+      "industrial": {
+        "title": "Ingeniería Industrial",
+        "issuer": "IEST Anáhuac",
+        "license": "Cédula: 14122575"
+      },
+      "systems": {
+        "title": "Ing. en Sistemas y Negocios",
+        "issuer": "IEST Anáhuac",
+        "status": "En trámite"
+      }
+    },
+    "languages": {
+      "spanish": "Español (Nativo)",
+      "english": "Inglés (C1)",
+      "german": "Alemán (A1)",
+      "japanese": "Japonés (N5)"
+    },
+    "diplomas": [
+      { "title": "Ethical Hacking Essentials (EHE)", "issuer": "EC-Council" },
+      { "title": "Foundations: Data, Data, Everywhere", "issuer": "Google" },
+      { "title": "SAP Professional Fundamentals", "issuer": "SAP" },
+      { "title": "Enterprise Design Thinking Co-Creator", "issuer": "IBM" },
+      { "title": "Programming for Everybody (Python)", "issuer": "University of Michigan" },
+      { "title": "Sesenta años de Inteligencia Artificial", "issuer": "UNAM" },
+      { "title": "Big Data: Impacto de datos masivos", "issuer": "U. Autónoma de Barcelona" },
+      { "title": "White Belt - Lean and Six Sigma", "issuer": "Lean & Six Sigma" },
+      { "title": "Riesgos Ergonómicos (NOM 036)", "issuer": "Safety Culture" },
+      { "title": "¿Qué hacen los buenos directivos?", "issuer": "IESE Business School" }
+    ]
+  },
+  "projects": {
+    "title": "Portafolio de Proyectos",
+    "categories": {
+        "all": "Todos",
+        "web": "Web / SaaS",
+        "systems": "Sistemas / IA",
+        "desktop": "Escritorio",
+        "security": "Seguridad"
+    },
+    "items": [
+        {
+        "title": "Sistema de Gestión de Viáticos (RBAC)",
+        "desc": "Solución empresarial para el control de gastos de viaje. Implementa seguridad perimetral y lógica de negocio basada en roles (RBAC) para autorizaciones financieras jerárquicas.",
+        "tech": ["Java", "Spring Boot", "MySQL", "RBAC"],
+        "category": "Security",
+        "link": "#" 
+        },
+        {
+        "title": "Salud Manager",
+        "desc": "Plataforma SaaS para la gestión de expedientes médicos y citas en tiempo real. Enfocada en la ergonomía digital y optimización de flujos clínicos.",
+        "tech": ["React", "Spring Boot", "Docker", "PostgreSQL"],
+        "category": "Web",
+        "link": "#"
+        },
+        {
+        "title": "Checador Facial AI",
+        "desc": "Sistema de asistencia biométrica que utiliza visión computacional para la identificación de personal, minimizando costos operativos mediante arquitectura serverless.",
+        "tech": ["Python", "MediaPipe", "AWS Lambda", "S3"],
+        "category": "Systems",
+        "link": "#"
+        },
+        {
+        "title": "Sistema de Facturación C.A.M.",
+        "desc": "Software crítico de facturación con capacidad de persistencia offline y sincronización asincrónica para garantizar la continuidad operativa municipal.",
+        "tech": ["Java", "SQL Server", "Swing", "Offline Persistence"],
+        "category": "Desktop",
+        "link": "#"
+        }
+    ]
+    },
+  "contact": {
+    "title": "¿Hablamos?",
+    "description": "Estoy abierto a nuevas oportunidades y colaboraciones, antes de llamar me puedes mandar un mensaje.",
+    "labels": {
+      "phone": "Teléfono",
+      "email": "Correo",
+      "linkedin": "LinkedIn",
+      "location": "Ubicación"
+    }
+  }
+}

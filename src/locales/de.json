@@ -1,0 +1,190 @@
+{
+  "navbar": {
+    "brand": "MARIO",
+    "brandAccent": "HERNÁNDEZ",
+    "links": {
+      "home": "Start",
+      "contact": "Kontakt",
+      "about": "Über mich",
+      "education": "Ausbildung",
+      "experience": "Erfahrung",
+      "projects": "Projekte"
+    },
+    "mobileLanguage": "Sprache"
+  },
+  "hero": {
+    "name": "Mario Isaias Hernández Jiménez",
+    "role": "Full-Stack-Entwickler | Cybersicherheit und AWS",
+    "description": "Ich bin Ingenieur für Systeme und Industrie. Ich optimiere Prozesse und mache Software.",
+    "ctaProjects": "Projekte sehen",
+    "ctaContact": "Kontakt"
+  },
+  "about": {
+    "title": "Über mich",
+    "blocks": {
+      "start": {
+        "title": "Meine Anfänge",
+        "text": "Ich bin 14 Jahre alt und ich mag Technologie. Ich lerne Apps und Webseiten. Mein erstes Projekt ist ein soziales Netzwerk mit Firebase und Chat. Das Projekt ist schwierig, aber ich lerne viel über Software-Architektur."
+      },
+      "evolution": {
+        "title": "Handy-Spiele und OOP",
+        "text": "Ich bin 15 Jahre alt. Ich mache Spiele für Handys mit Swift. Ich mache ein Spiel 'Tic-Tac-Toe' mit Multiplayer. Hier lerne ich Programmierung (OOP) und Logik."
+      },
+      "industrial": {
+        "title": "Industrie-Ingenieurwesen",
+        "text": "Ich bin 17 Jahre alt. Ich studiere Industrie-Ingenieurwesen. Ich lerne Prozess-Optimierung, Lean Six Sigma und Agile. Ich mache ein System für Wasser und Landwirtschaft mit Software."
+      },
+      "consolidation": {
+        "title": "Systeme und Sicherheit",
+        "text": "Ich bin 19 Jahre alt. Ich studiere jetzt auch System-Ingenieurwesen. Ich mache Software und effiziente Systeme. Ich lerne Cybersicherheit, Cloud (AWS), Docker und Linux. Ich möchte sichere Software machen."
+      }
+    }
+  },
+  "experience": {
+    "title": "Erfahrung",
+    "projectHeading": "Wichtige Projekte",
+    "jobs": {
+      "cam": {
+        "company": "C.A.M. LA RETAMA",
+        "role": "Full-Stack-Entwickler",
+        "period": "Dez. 2024 - Heute",
+        "description": "Ich mache Software für die Stadtverwaltung.",
+        "achievements": [
+          "Ich entwickle Rechnungs-Systeme offline.",
+          "Ich optimiere SQL-Datenbanken.",
+          "Ich mache UI/UX Design mit React und Figma.",
+          "Ich benutze Sicherheit-Protokolle (RBAC)."
+        ],
+        "projects": [
+          {
+            "title": "Chatbot mit KI",
+            "desc": "Ein intelligenter Chatbot für Bürger. Er hilft bei Steuern und Zahlungen online."
+          },
+          {
+            "title": "System für Reisekosten (RBAC)",
+            "desc": "Eine Plattform für Geld-Kontrolle mit Rollen-Sicherheit (RBAC)."
+          },
+          {
+            "title": "Studentenausweis-System",
+            "desc": "Ein System für Studenten-Registrierung und Ausweise."
+          }
+        ]
+      },
+      "exertus": {
+        "company": "Exertus",
+        "role": "Daten-Analyst",
+        "period": "Jan. 2022 - Sep. 2022",
+        "description": "Ich benutze Daten-Analyse für die Industrie.",
+        "achievements": [
+          "Ich mache Modelle mit Python für die Produktion.",
+          "Ich arbeite mit Big Data.",
+          "Ich mache Berichte über Zeit und Bewegungen."
+        ],
+        "projects": [
+          {
+            "title": "Prozess-Simulation",
+            "desc": "Ich benutze R Studio und Promodel für Simulationen in der Produktion."
+          }
+        ]
+      },
+      "caritas": {
+        "company": "Cáritas Tampico",
+        "role": "Logistik-Analyst",
+        "period": "Aug. 2021 - Dez. 2021",
+        "description": "Ich optimiere die Logistik für Lebensmittel.",
+        "achievements": [
+          "Ich plane neue Routen für die Lieferung.",
+          "Ich minimiere Lebensmittel-Abfall.",
+          "Ich mache digitale Karten für die Fahrer."
+        ],
+        "projects": [
+          {
+            "title": "Digitale Logistik-Karte",
+            "desc": "Eine interaktive Karte für die tägliche Planung."
+          }
+        ]
+      }
+    }
+  },
+  "education": {
+    "title": "Ausbildung",
+    "degreesHeading": "Studium",
+    "certsHeading": "Zertifikate",
+    "languagesHeading": "Sprachen",
+    "degrees": {
+      "master": {
+        "title": "Master Software-Ingenieurwesen",
+        "issuer": "UNIR | Cybersicherheit",
+        "status": "Ich studiere noch"
+      },
+      "industrial": {
+        "title": "Industrie-Ingenieurwesen",
+        "issuer": "IEST Anáhuac",
+        "license": "Lizenz: 14122575"
+      },
+      "systems": {
+        "title": "System-Ingenieurwesen",
+        "issuer": "IEST Anáhuac",
+        "status": "In Arbeit"
+      }
+    },
+    "languages": {
+      "spanish": "Spanisch (Muttersprache)",
+      "english": "Englisch (C1)",
+      "german": "Deutsch (A1)",
+      "japanese": "Japanisch (N5)"
+    },
+    "diplomas": [
+      { "title": "Ethical Hacking Essentials", "issuer": "EC-Council" },
+      { "title": "Google Data Foundations", "issuer": "Google" },
+      { "title": "SAP Fundamentals", "issuer": "SAP" },
+      { "title": "Enterprise Design Thinking", "issuer": "IBM" },
+      { "title": "Python für alle", "issuer": "University of Michigan" },
+      { "title": "Künstliche Intelligenz", "issuer": "UNAM" },
+      { "title": "Big Data Impact", "issuer": "U. Autónoma de Barcelona" },
+      { "title": "Lean Six Sigma White Belt", "issuer": "Lean & Six Sigma" },
+      { "title": "NOM 036 Risiken", "issuer": "Safety Culture" },
+      { "title": "Management für Direktoren", "issuer": "IESE Business School" }
+    ]
+  },
+  "projects": {
+    "title": "Meine Projekte",
+    "categories": {
+      "all": "Alle",
+      "web": "Web",
+      "systems": "Systeme",
+      "desktop": "Desktop",
+      "mobile": "Mobil"
+    },
+    "items": [
+      {
+        "title": "Salud Manager",
+        "desc": "Medizin-Management mit React und Spring Boot.",
+        "tech": ["React", "Spring Boot", "Docker"],
+        "category": "Web"
+      },
+      {
+        "title": "Zeiterfassung",
+        "desc": "HR Plattform mit MediaPipe und AWS Lambda.",
+        "tech": ["Python", "AWS"],
+        "category": "Systeme"
+      },
+      {
+        "title": "C.A.M. Rechnungs-System",
+        "desc": "Java Systeme mit Offline-Daten.",
+        "tech": ["Java", "Offline-Daten"],
+        "category": "Systeme"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Sprechen wir?",
+    "description": "Ich suche neue Möglichkeiten. Bitte schreib mir eine Nachricht.",
+    "labels": {
+      "phone": "Telefon",
+      "email": "E-Mail",
+      "linkedin": "LinkedIn",
+      "location": "Ort"
+    }
+  }
+}

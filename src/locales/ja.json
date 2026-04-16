@@ -1,0 +1,190 @@
+{
+  "navbar": {
+    "brand": "MARIO",
+    "brandAccent": "HERNÁNDEZ",
+    "links": {
+      "home": "ホーム",
+      "contact": "お問い合わせ",
+      "about": "自己紹介",
+      "education": "学歴",
+      "experience": "職歴",
+      "projects": "プロジェクト"
+    },
+    "mobileLanguage": "言語"
+  },
+  "hero": {
+    "name": "マリオ・エルナンデス",
+    "role": "ソフトウェアエンジニア | サイバーセキュリティ",
+    "description": "私はシステムエンジニアと産業エンジニアです。プロセスの最適化とソフトウェアを作ります。",
+    "ctaProjects": "プロジェクトを見る",
+    "ctaContact": "お問い合わせ"
+  },
+  "about": {
+    "title": "自己紹介",
+    "blocks": {
+      "start": {
+        "title": "始まり (14歳)",
+        "text": "14歳の時、プログラミングを始めました。ウェブサイトやアプリに興味がありました。FirebaseでSNSを作りました。難しかったですが、ソフトウェアの基本を学びました。"
+      },
+      "evolution": {
+        "title": "モバイルとOOP (15歳)",
+        "text": "15歳の時、Swiftでゲームを作りました。「三目並べ」のオンラインゲームです。ここでオブジェクト指向プログラミング（OOP）とロジックを勉強しました。"
+      },
+      "industrial": {
+        "title": "産業工学 (17歳)",
+        "text": "17歳の時、産業工学を勉強しました。プロセスの最適化やリーン・シックス・シグマを学びました。ソフトウェアを使って、農業のための計算システムを作りました。"
+      },
+      "consolidation": {
+        "title": "システムとセキュリティ",
+        "text": "19歳の時、システム工学も勉強しました。今はサイバーセキュリティ、クラウド（AWS）、Dockerを勉強しています。安全で便利なシステムを作りたいです。"
+      }
+    }
+  },
+  "experience": {
+    "title": "職歴",
+    "projectHeading": "主なプロジェクト",
+    "jobs": {
+      "cam": {
+        "company": "C.A.M. LA RETAMA",
+        "role": "フルスタックエンジニア",
+        "period": "2025年11月 - 現在",
+        "description": "市のシステムと請求ソフトウェアを作っています。",
+        "achievements": [
+          "オフラインの請求システムを作りました。",
+          "SQLデータベースを最適化しました。",
+          "ReactとFigmaでUI/UXをデザインしました。",
+          "セキュリティプロトコル（RBAC）を使いました。"
+        ],
+        "projects": [
+          {
+            "title": "AIチャットボット",
+            "desc": "市民のためのAIチャットボットです。オンラインで税金の相談や支払いができます。"
+          },
+          {
+            "title": "旅費管理システム (RBAC)",
+            "desc": "お金の管理のためのプラットフォームです。セキュリティ（RBAC）を使っています。"
+          },
+          {
+            "title": "学生証管理システム",
+            "desc": "学生の登録と学生証を作るためのシステムです。"
+          }
+        ]
+      },
+      "exertus": {
+        "company": "Exertus",
+        "role": "データアナリスト",
+        "period": "2022年1月 - 9月",
+        "description": "産業のためのデータ分析をしました。",
+        "achievements": [
+          "Pythonで生産のためのモデルを作りました。",
+          "ビッグデータのクリーニングをしました。",
+          "時間と動作の分析レポートを書きました。"
+        ],
+        "projects": [
+          {
+            "title": "プロセスシミュレーション",
+            "desc": "R StudioとPromodelを使って、生産のシミュレーションをしました。"
+          }
+        ]
+      },
+      "caritas": {
+        "company": "Cáritas Tampico",
+        "role": "ルートアナリスト",
+        "period": "2021年8月 - 12月",
+        "description": "物流（ロジスティクス）の最適化をしました。",
+        "achievements": [
+          "新しい配送ルートを計画しました。",
+          "配送時間を短くしました。",
+          "運転手のためのデジタルマップを作りました。"
+        ],
+        "projects": [
+          {
+            "title": "配送デジタルマップ",
+            "desc": "毎日の計画のためのインタラクティブなマップです。"
+          }
+        ]
+      }
+    }
+  },
+  "education": {
+    "title": "学歴と資格",
+    "degreesHeading": "学歴",
+    "certsHeading": "資格と修了証",
+    "languagesHeading": "言語",
+    "degrees": {
+      "master": {
+        "title": "ソフトウェア工学修士",
+        "issuer": "UNIR | サイバーセキュリティ",
+        "status": "在学中"
+      },
+      "industrial": {
+        "title": "産業工学学士",
+        "issuer": "IEST Anáhuac",
+        "license": "登録番号: 14122575"
+      },
+      "systems": {
+        "title": "システム工学学士",
+        "issuer": "IEST Anáhuac",
+        "status": "手続き中"
+      }
+    },
+    "languages": {
+      "spanish": "スペイン語 (母国語)",
+      "english": "英語 (C1)",
+      "german": "ドイツ語 (A1)",
+      "japanese": "日本語 (N5)"
+    },
+    "diplomas": [
+      { "title": "Ethical Hacking Essentials", "issuer": "EC-Council" },
+      { "title": "Google Data Foundations", "issuer": "Google" },
+      { "title": "SAP Fundamentals", "issuer": "SAP" },
+      { "title": "Enterprise Design Thinking", "issuer": "IBM" },
+      { "title": "Programming for Everybody (Python)", "issuer": "ミシガン大学" },
+      { "title": "人工知能の60年", "issuer": "メキシコ国立自治大学" },
+      { "title": "ビッグデータの影響", "issuer": "バルセロナ自治大学" },
+      { "title": "Lean Six Sigma White Belt", "issuer": "Lean & Six Sigma" },
+      { "title": "エルゴノミクスリスク (NOM 036)", "issuer": "Safety Culture" },
+      { "title": "マネジメントの優先順位", "issuer": "ナバラ大学" }
+    ]
+  },
+  "projects": {
+    "title": "プロジェクト",
+    "categories": {
+      "all": "すべて",
+      "web": "ウェブ",
+      "systems": "システム",
+      "desktop": "デスクトップ",
+      "mobile": "モバイル"
+    },
+    "items": [
+      {
+        "title": "Salud Manager",
+        "desc": "ReactとSpring Bootを使った医療管理システムです。",
+        "tech": ["React", "Spring Boot", "Docker"],
+        "category": "Web"
+      },
+      {
+        "title": "顔認証勤怠管理",
+        "desc": "MediaPipeとAWS Lambdaを使ったHRプラットフォームです。",
+        "tech": ["Python", "AWS"],
+        "category": "Systeme"
+      },
+      {
+        "title": "C.A.M. 請求システム",
+        "desc": "オフラインデータに対応したJavaのシステムです。",
+        "tech": ["Java", "SQL", "Desktop"],
+        "category": "Desktop"
+      }
+    ]
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "description": "新しい仕事やコラボレーションに興味があります。メッセージを送ってください。",
+    "labels": {
+      "phone": "電話",
+      "email": "メール",
+      "linkedin": "LinkedIn",
+      "location": "場所"
+    }
+  }
+}

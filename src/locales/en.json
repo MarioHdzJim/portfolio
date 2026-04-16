@@ -1,0 +1,190 @@
+{
+  "navbar": {
+    "brand": "MARIO",
+    "brandAccent": "HERNÁNDEZ",
+    "links": {
+      "home": "Home",
+      "contact": "Contact",
+      "about": "About Me",
+      "education": "Education",
+      "experience": "Experience",
+      "projects": "Projects"
+    },
+    "mobileLanguage": "Language"
+  },
+  "hero": {
+    "name": "Mario Isaias Hernández Jiménez",
+    "role": "Full Stack Developer | Cybersecurity & AWS Specialist",
+    "description": "A dual-degree Engineer in Systems and Industrial Engineering , specializing in the design of scalable architectures and the optimization of mission-critical processes. My competitive advantage lies in the ability to translate stakeholders' strategic objectives into high-impact functional systems , successfully digitalizing and automating workflows that maximize operational profitability. I possess a proven track record of optimizing production lines and delivering results-oriented full-stack software development.",
+    "ctaProjects": "View Projects",
+    "ctaContact": "Get in Touch"
+  },
+  "about": {
+    "title": "About Me",
+    "blocks": {
+      "start": {
+        "title": "Early Foundations",
+        "text": "My journey into technology commenced at age 14, fueled by an insatiable curiosity regarding the inner workings of mobile and web applications. My first significant milestone involved developing a proprietary social network, featuring a functional Firebase-based authentication system, real-time chat, and interaction walls. Although this project exposed me to the early realities of scalability and infrastructure overhead, it successfully laid the groundwork for my career in software architecture."
+      },
+      "evolution": {
+        "title": "Advancement into Mobile & OOP",
+        "text": "By age 15, I transitioned into mobile game development utilizing Swift. I engineered an advanced version of 'Tic-Tac-Toe' that incorporated online multiplayer capabilities and complex nested-game mechanics. This project served as a rigorous laboratory for mastering Object-Oriented Programming (OOP) and managing intricate logical states, allowing me to validate prototypes with real-world users within my academic environment."
+      },
+      "industrial": {
+        "title": "Industrial Engineering & Strategic Optimization",
+        "text": "Building upon a solid self-taught foundation, I made a strategic decision at age 17 to pursue Industrial Engineering. My objective was clear: to augment my programming expertise with time studies, process optimization, and methodologies such as Lean Six Sigma and Agile. Throughout this tenure, I developed technical tools like an irrigation resource calculation system, integrating climatic and geographic variables into a streamlined technical solution."
+      },
+      "consolidation": {
+        "title": "Systems Integration & Security",
+        "text": "To formalize my technical expertise, I embarked on a second degree in Computer Systems Engineering at age 19. This dual interdisciplinary background enables me to go beyond writing code—I design ergonomic and high-efficiency systems from the ground up. I am currently leveraging this foundation to specialize in Cybersecurity and Cloud infrastructure. By deepening my proficiency in Docker, Kubernetes, Linux server administration, and AWS services, I strive to ensure every deployment is as secure as it is scalable, while mastering modern methodologies such as SCRUM, BEM, and UI/UX design."
+      }
+    }
+  },
+  "experience": {
+    "title": "Professional Experience",
+    "projectHeading": "Key Project Highlights",
+    "jobs": {
+      "cam": {
+        "company": "C.A.M. LA RETAMA",
+        "role": "Full Stack Developer",
+        "period": "Dec. 2024 - Present",
+        "description": "Spearheading the development of mission-critical technological solutions for public administration and municipal revenue systems.",
+        "achievements": [
+          "Engineered asynchronous billing systems with offline persistence, yielding a 24% increase in operational continuity.",
+          "Optimized intricate SQL queries and database architectures, significantly enhancing application response times.",
+          "Designed user-centric UI/UX interfaces in React and Figma, resulting in a 31.7% reduction in reporting turnaround time.",
+          "Implemented RBAC security protocols and secure RESTful APIs to safeguard sensitive citizen data."
+        ],
+        "projects": [
+          {
+            "title": "AI-Powered Citizen Assistance Chatbot",
+            "desc": "Implemented an intelligent agent leveraging Natural Language Processing to resolve inquiries. Utilized microservices architecture and RESTful APIs to facilitate automated online property tax consultations and payments."
+          },
+          {
+            "title": "Travel Expense Management System (RBAC)",
+            "desc": "Designed and developed a robust platform for expense tracking, utilizing a Role-Based Access Control (RBAC) model to ensure security and hierarchical integrity in financial authorizations."
+          },
+          {
+            "title": "Integrated Student Identity Management System",
+            "desc": "Architected a registration system for local students to obtain physical credentials for facility access and discounts. Included an administrative dashboard for data validation and automated credential generation."
+          }
+        ]
+      },
+      "exertus": {
+        "company": "Exertus",
+        "role": "Data Analyst",
+        "period": "Jan. 2022 - Sep. 2022",
+        "description": "Applied Industrial Engineering methodologies in synergy with data analytics to streamline production workflows.",
+        "achievements": [
+          "Developed predictive models in Python for bottleneck detection, enhancing production line performance by 4.2%.",
+          "Architected big data cleaning pipelines, ensuring 95.9% data integrity for strategic executive reporting.",
+          "Generated strategic insights through the daily analysis of time and motion studies[cite: 34]."
+        ],
+        "projects": [
+          {
+            "title": "Stochastic Process Simulation",
+            "desc": "Utilized R Studio for data processing and created simulation models in ProModel to predict critical production scenarios and optimize material flow."
+          }
+        ]
+      },
+      "caritas": {
+        "company": "Cáritas Tampico",
+        "role": "Logistics Route Analyst",
+        "period": "Aug. 2021 - Dec. 2021",
+        "description": "Optimized supply chain and last-mile operations for the efficient distribution of perishable goods.",
+        "achievements": [
+          "Restructured delivery routes geographically, achieving significant reductions in lead times and operational costs.",
+          "Modeled distribution routes based on consumption algorithms, distance, and product shelf-life to minimize waste of sensitive goods.",
+          "Digitized the distribution network's cartography for real-time monitoring of drivers and logistics."
+        ],
+        "projects": [
+          {
+            "title": "Digital Distribution Mapping",
+            "desc": "Created an interactive map with optimized routes that served as the primary framework for daily fleet logistics planning."
+          }
+        ]
+      }
+    }
+  },
+  "education": {
+    "title": "Education & Certifications",
+    "degreesHeading": "Academic Degrees",
+    "certsHeading": "Certifications & Diplomas",
+    "languagesHeading": "Languages",
+    "degrees": {
+      "master": {
+        "title": "M.S. in Software Engineering",
+        "issuer": "UNIR | Cybersecurity Specialization",
+        "status": "In Progress"
+      },
+      "industrial": {
+        "title": "B.S. in Industrial Engineering",
+        "issuer": "IEST Anáhuac",
+        "license": "Professional License: 14122575"
+      },
+      "systems": {
+        "title": "B.S. in Systems Engineering & Digital Business",
+        "issuer": "IEST Anáhuac",
+        "status": "Degree Pending"
+      }
+    },
+    "languages": {
+      "spanish": "Spanish (Native)",
+      "english": "English (C1)",
+      "german": "German (A1)",
+      "japanese": "Japanese (N5)"
+    },
+    "diplomas": [
+      { "title": "Ethical Hacking Essentials (EHE)", "issuer": "EC-Council" },
+      { "title": "Foundations: Data, Data, Everywhere", "issuer": "Google" },
+      { "title": "SAP Professional Fundamentals", "issuer": "SAP" },
+      { "title": "Enterprise Design Thinking Co-Creator", "issuer": "IBM" },
+      { "title": "Programming for Everybody (Python)", "issuer": "University of Michigan" },
+      { "title": "Sixty Years of Artificial Intelligence", "issuer": "UNAM" },
+      { "title": "Big Data: Impact of Data in Modern Society", "issuer": "U. Autònoma de Barcelona" },
+      { "title": "White Belt - Lean and Six Sigma", "issuer": "Lean & Six Sigma" },
+      { "title": "Ergonomic Risks & NOM-036 Implementation", "issuer": "Safety Culture" },
+      { "title": "What Do Good Managers Do? High-Level Management", "issuer": "IESE Business School" }
+    ]
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "categories": {
+      "all": "All",
+      "web": "Web",
+      "systems": "Systems",
+      "desktop": "Desktop",
+      "mobile": "Mobile"
+    },
+    "items": [
+      {
+        "title": "Salud Manager",
+        "desc": "Comprehensive medical management system built with React and Spring Boot.",
+        "tech": ["React", "Spring Boot", "Docker"],
+        "category": "Web"
+      },
+      {
+        "title": "Facial Time-Tracker",
+        "desc": "HR platform utilizing MediaPipe and AWS Lambda server architecture.",
+        "tech": ["Python", "AWS", "AI"],
+        "category": "Systems"
+      },
+      {
+        "title": "C.A.M. Billing System",
+        "desc": "Java-based asynchronous systems with robust offline data persistence.",
+        "tech": ["Java", "SQL", "Desktop"],
+        "category": "Desktop"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Let's Connect",
+    "description": "I am open to new professional opportunities and technical collaborations. Feel free to message me before calling.",
+    "labels": {
+      "phone": "Phone",
+      "email": "Email",
+      "linkedin": "LinkedIn",
+      "location": "Location"
+    }
+  }
+}
