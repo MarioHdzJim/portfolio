@@ -24,7 +24,7 @@
     "blocks": {
       "start": {
         "title": "Mis inicios",
-        "text": "Mi camino en la tecnología comenzó a los 14 años impulsado por una curiosidad insaciable por entender cómo funcioban las aplicaciones móviles y web. Mi primer gran desafío fue desarrollar una red social propia, donde implementé un sistema de autenticación funcional con Firebase, chat en tiempo real y muros de interacción. Aunque el proyecto me enfrentó a mis primeras realidades sobre la escalabilidad y los costos de infraestructura, sembró en mí la semilla de la arquitectura de software."
+        "text": "Mi camino en la tecnología comenzó a los 14 años impulsado por una curiosidad insaciable por entender cómo funcionaban las aplicaciones móviles y web. Mi primer gran desafío fue desarrollar una red social propia, donde implementé un sistema de autenticación funcional con Firebase, chat en tiempo real y muros de interacción. Aunque el proyecto me enfrentó a mis primeras realidades sobre la escalabilidad y los costos de infraestructura, sembró en mí la semilla de la arquitectura de software."
       },
       "evolution": {
         "title": "Evolución a Mobile y POO",
@@ -159,29 +159,29 @@
     "items": [
         {
         "title": "Sistema de Gestión de Viáticos (RBAC)",
-        "desc": "Solución empresarial para el control de gastos de viaje. Implementa seguridad perimetral y lógica de negocio basada en roles (RBAC) para autorizaciones financieras jerárquicas.",
+        "desc": "Solución empresarial para el control y auditoría de gastos de viaje, diseñada bajo un modelo de Seguridad Granular (RBAC). La plataforma permite una gestión jerárquica completa: desde la solicitud presupuestaria por directores hasta la aprobación administrativa y rendición de cuentas por empleados. Implementé un motor de autorizaciones personalizadas que permite definir permisos a nivel de acción, garantizando la segregación de funciones y la integridad en flujos financieros críticos.",
         "tech": ["Java", "Spring Boot", "MySQL", "RBAC"],
         "category": "Security",
         "link": "#" 
         },
         {
         "title": "Salud Manager",
-        "desc": "Plataforma SaaS para la gestión de expedientes médicos y citas en tiempo real. Enfocada en la ergonomía digital y optimización de flujos clínicos.",
+        "desc": "Plataforma SaaS para la gestión de expedientes clínicos y agendamiento en tiempo real, optimizada para la ergonomía digital y eficiencia operativa. El sistema garantiza la privacidad de información sensible mediante lógica RBAC, permitiendo que el personal administrativo gestione la logística de citas sin tener acceso a los datos médicos protegidos. Arquitectada para mejorar la trazabilidad de la información del paciente y agilizar la toma de decisiones médicas.",
         "tech": ["React", "Spring Boot", "Docker", "PostgreSQL"],
         "category": "Web",
         "link": "#"
         },
         {
-        "title": "Checador Facial AI",
-        "desc": "Sistema de asistencia biométrica que utiliza visión computacional para la identificación de personal, minimizando costos operativos mediante arquitectura serverless.",
+        "title": "Sistema de gestión de recursos humanos y asistencia biométrica",
+        "desc": "Ecosistema integral de Recursos Humanos que integra Visión Computacional (MediaPipe) para la identificación biométrica de personal. Automatiza el ciclo completo de gestión: desde el control de asistencia y generación de nómina, hasta la administración de incidencias, altas, bajas y vacaciones. Implementado sobre una arquitectura escalable en AWS y protegida con niveles de acceso segmentados, eliminando errores manuales en registros y fortaleciendo la seguridad de la información departamental.",
         "tech": ["Python", "MediaPipe", "AWS Lambda", "S3"],
         "category": "Systems",
         "link": "#"
         },
         {
         "title": "Sistema de Facturación C.A.M.",
-        "desc": "Software crítico de facturación con capacidad de persistencia offline y sincronización asincrónica para garantizar la continuidad operativa municipal.",
-        "tech": ["Java", "SQL Server", "Swing", "Offline Persistence"],
+        "desc": "Diseñé y desarrollé una solución de facturación municipal con arquitectura de persistencia offline y sincronización asincrónica, garantizando la continuidad del servicio ante interrupciones de red. Implementé un módulo de auditoría integral (local y remoto) para la trazabilidad detallada de sesiones y transacciones, además de integración nativa con el lenguaje ZPL para impresión térmica industrial mediante protocolos TCP/IP.",
+        "tech": ["Java", "SQL Server", "Swing", "Offline Persistence", "ZPL"],
         "category": "Desktop",
         "link": "#"
         }
