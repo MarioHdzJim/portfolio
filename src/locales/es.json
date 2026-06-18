@@ -152,9 +152,9 @@
     "categories": {
         "all": "Todos",
         "web": "Web / SaaS",
-        "systems": "Sistemas / IA",
-        "desktop": "Escritorio",
-        "security": "Seguridad"
+        "mobile": "Móvil",
+        "cloud_backend": "Backend y Arquitectura",
+        "security": "Ciberseguridad"
     },
     "items": [
         {

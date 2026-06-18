@@ -151,9 +151,9 @@
     "title": "Featured Projects",
     "categories": {
       "all": "All",
-      "web": "Web",
-      "systems": "Systems",
-      "desktop": "Desktop",
+      "web": "Web / SaaS",
+      "security": "Cibersecurity",
+      "cloud_backend": "Cloud & Backend",
       "mobile": "Mobile"
     },
     "items": [

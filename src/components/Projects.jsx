@@ -29,10 +29,21 @@ const Projects = () => {
 
   const categoriesObj = t('projects.categories', { returnObjects: true });
   const categories = typeof categoriesObj === 'object' ? categoriesObj : { all: 'Todos', web: 'Web', systems: 'Sistemas', desktop: 'Escritorio', mobile: 'Mobile' };
+  const categoryMap = {
+    'web': ['Web'],
+    'security': ['Security'],
+    'cloud_backend': ['Systems'],
+    'systems': ['Systems', 'Systeme'],
+    'desktop': ['Desktop', 'Escritorio'],
+    'mobile': ['Mobile']
+  };
 
   const filteredProjects = filter === 'all' 
     ? projectsData 
-    : projectsData.filter(p => p.category === categories[filter]);
+    : projectsData.filter(p => {
+      const possibleCategories = categoryMap[filter] || [];
+      return possibleCategories.includes(p.category);
+    });
 
   return (
     <section id="projects" className="py-20 px-6 max-w-7xl mx-auto">
